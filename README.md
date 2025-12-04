@@ -1,4 +1,4 @@
-Hi, I'm a Full Stack Developer & Founder of EJM Services 👨‍💻
+Hi, I'm a Full Stack Developer & Founder of EJM Services 
 Welcome to my GitHub! I'm passionate about building scalable web applications and helping businesses establish their digital presence.
 
 🚀 About Me
@@ -47,5 +47,6 @@ At EJM Services, I help businesses:
 📫 Let's Work Together
 If you're looking for a dedicated full-stack developer to bring your vision to life, I'd love to hear from you.
 
-🌐 Visit EJM Services →
+🌐 Visit EJM Services → https://ejm.services
+
 Get in touch through my website to discuss your project requirements and how I can help your business succeed.
